@@ -1,4 +1,4 @@
-package ru.riveo.strollie.personalcabinet.config;
+package ru.riveo.strollie.messenger.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -54,6 +54,5 @@ public class SecurityConfig {
 
         return converter;
     }
-
 
 }
